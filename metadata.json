@@ -1,0 +1,8 @@
+{
+  "name": "Remix HabitFlow",
+  "description": "Seguimiento de hábitos diarios con arquitectura limpia, Room Database y Material Design 3",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
